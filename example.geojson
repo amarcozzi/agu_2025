@@ -1,0 +1,40 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -114.09545796676623,
+              46.8324794598619
+            ],
+            [
+              -114.11217537297199,
+              46.8324794598619
+            ],
+            [
+              -114.11217537297199,
+              46.82496749915157
+            ],
+            [
+              -114.09545796676623,
+              46.82496749915157
+            ],
+            [
+              -114.09545796676623,
+              46.8324794598619
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    }
+  ],
+  "name": "Example",
+  "description": "This is an example domain.",
+  "horizontalResolution": 2,
+  "verticalResolution": 1
+}
